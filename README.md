@@ -3,9 +3,9 @@
 MotiCon is a simple web based, machine learning - personal assistant app. It completes certain actions on custom motion commands. This demo has the ability to execute Email (Thunderbird), Google Chrome and Windows Media Player.
 
 ## Getting started
-Disclaimer This demo is built for Windows 
+*Disclaimer This demo is built for Windows*
 
-First, in order to start the app, you need to have Node.js installed on your computer. After installation, navigate to the server folder of the repository with your terminal, then run the Node.js server by typing the following command in the terminal
+First, in order to start the app, you need to have Node.js installed on your computer. After installation, navigate to the */server* folder of the repository with your terminal, then run the Node.js server by typing the following command in the terminal
 ```
 npm run server 
 ```
@@ -25,11 +25,11 @@ The app now waits for your calibration of the commands. There are 4 calibration 
 >- Wait for the message Calibration Successful!
 
 
-Every time the calibration is completed successfully, the app will message you saying Calibration Successful!
+*Every time the calibration is completed successfully, the app will message you saying Calibration Successful!*
 
-If you wish to save your command data-set, you can do it by clicking on the button 'Save Model'. This will download a model.json file which you need to put in the app directory. The app then loads that model automatically every time you open the app.
+If you wish to save your command data-set, you can do it by clicking on the button 'Save Model'. This will download a *model.json* file which you need to put in the app directory. The app then loads that model automatically every time you open the app.
  
-Although you can load a saved model, for better experience, you always need to calibrate the neutral position when you open the app. The other commands will be loaded from the saved model. 
+***Although you can load a saved model, for better experience, you always need to calibrate the neutral position when you open the app. The other commands will be loaded from the saved model. ***
 
 ### Starting, pausing the app
 
