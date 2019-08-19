@@ -21,7 +21,7 @@ function setup() {
 
   features = ml5.featureExtractor('MobileNet', modelReady);
   knn = ml5.KNNClassifier();
-  message('Waiting for calibration or start of the app...');
+  message('Waiting for calibration of neutral position...');
 }
 
 const x = 5;
