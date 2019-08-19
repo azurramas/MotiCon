@@ -19,10 +19,10 @@ After opening the application, the User Interface will be shown. At the top, if 
 
 The app now waits for your calibration of the commands. There are 4 calibration buttons neutral position, Music command, Email command and Chrome command. First, you need to calibrate your neutral position (as the text above says). Then, for each command - you make your desired gesturestance and click calibrate. Those will be the motion commands you will use within your app. 
 
-For example - If you want to open Google Chrome when you show your open left hand
-- Position your open left hand as you wish, and preview the command on the screen.
-- Click Calibrate Chrome Command
-- Wait for the message Calibration Successful!
+>For example - If you want to open Google Chrome when you show your open left hand
+>- Position your open left hand as you wish, and preview the command on the screen.
+>- Click Calibrate Chrome Command
+>- Wait for the message Calibration Successful!
 
 
 Every time the calibration is completed successfully, the app will message you saying Calibration Successful!
